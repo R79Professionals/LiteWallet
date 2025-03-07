@@ -1,0 +1,2 @@
+# LiteWallet
+Wallet for CryptoCurrency
